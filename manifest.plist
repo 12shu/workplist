@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   vwork.plist
+   vwork
+
+   Created by Apple on 2017/7/28.
+   Copyright (c) 2017年 redsea. All rights reserved.
+-->
+<plist version="1.0">
+    <dict> 
+    <key>items</key> 
+    <array> 
+        <dict> 
+            <key>assets</key> 
+            <array> 
+                <dict> 
+                    <key>kind</key> 
+                    <string>software-package</string> 
+                    <key>url</key> 
+                    <string>http://ots5xplq8.bkt.clouddn.com/vwork.ipa</string> 
+                </dict> 
+            </array> 
+            <key>metadata</key> 
+            <dict> 
+                <key>bundle-identifier</key> 
+                <string>com.redsea.vwork</string> 
+                <key>bundle-version</key> 
+                <string>1.2.5</string> 
+                <key>kind</key> 
+                <string>software</string> 
+                <key>title</key> 
+                <string>VWORK</string> 
+            </dict> 
+        </dict> 
+    </array> 
+</dict> 
+</plist>
